@@ -13,8 +13,8 @@
 }
 .navbar-brand img
 {
-  height: 80px;
-  padding-left: 60px;
+  height: 160px;
+  padding-left: 120px;
 }
 .navbar-nav li
 {
@@ -27,7 +27,7 @@
 }
 #nav-bar ul li a:hover
 {
-  color: #C60285!important;
+  color: #FFD700!important;
 }
 .navbar
 {
@@ -72,7 +72,7 @@
 {
   margin-top: 20px;
   margin-bottom: 30px;
-  background: #C60285;
+  background: #FFD700;
 }
 .about-content
 {
@@ -138,11 +138,11 @@
 {
   font-size: 14px;
   margin-top: 20px;
-  color: #ccc;
+  color: #fff;
 }
 .test .col-md-3:hover
 {
-  background: #C60285;
+  background: #DAA520;
   cursor: pointer;
   transition: 0.7s;
 }
@@ -163,7 +163,7 @@ h1
 h1::after
 {
   content: '';
-  background: #C60285;
+  background: #FFD700;
   display: block;
   height: 3px;
   width: 170px;
@@ -193,7 +193,7 @@ h1::after
   font-size: 22px;
   font-weight: bold;
   margin-top: 15px;
-  color: #C60285 !important;
+  color: #FFD700 !important;
 }
 .profile-pic h3
 {
@@ -205,7 +205,7 @@ h1::after
 {
   height: 25px;
   width: 25px;
-  color: #C60285 !important;
+  color: #FFD700 !important;
   background: #fff;
   padding: 4px;
   border-radius: 50%;
@@ -249,7 +249,7 @@ h1::after
 }
 #take .btn
 {
-  background: #C60285;
+  background: #FFD700;
 }
 
 /*--feedback--*/
@@ -288,7 +288,7 @@ h1::after
 {
   font-size: 20px;
   margin-top: 15px;
-  color: #C60285;
+  color: #FFD700;
 }
 #feedback span
 {
@@ -300,11 +300,11 @@ blockquote
   font-size: 16px;
   line-height: 30px;
 }
-blockquote::before
+/*blockquote::before
 {
   content: '\93';
   font-size: 50px;
-  color: #C60285;
+  color: #FFD700;
   position: relative;
   line-height: 20px;
   bottom; -15px:
@@ -314,11 +314,11 @@ blockquote::after
 {
   content: '\94';
   font-size: 50px;
-  color: #C60285;
+  color: #FFD700;
   position: relative;
   line-height: 10px;
   bottom; -15px:
-  left: 5px;
+  left: 5px; */
 }
 .profile:hover
 {
@@ -357,12 +357,12 @@ blockquote::after
 .contact-info .fa
 {
   margin: 10px;
-  color: #C60285;
+  color: #FFD700;
   font-weight: bold;
 }
 #contact .btn
 {
-  background: #C60285; 
+  background: #FFD700;
 }
 
 /*--Footer--*/
