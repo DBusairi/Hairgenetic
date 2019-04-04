@@ -147,3 +147,15 @@ h1::after
   padding: 15px 10px;
   list-style: none;
 }
+/*--Footer--*/
+#footer
+{
+  background: #333;
+  color: #fff;
+  padding: 12px;
+}
+.fa-heart-o
+{
+  margin: 3px;
+  color: red;
+}
