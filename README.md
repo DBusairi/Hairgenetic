@@ -1,2 +1,0 @@
-# Hairgenetic
-My first Website
